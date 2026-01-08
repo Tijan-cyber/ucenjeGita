@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 See 'bond' for more !
 
 
@@ -38,3 +39,6 @@ vsm
      0000             0000        777777777
 
 unknown
+=======
+temna/bela, genka/sladka, dobra 
+>>>>>>> dejstva
