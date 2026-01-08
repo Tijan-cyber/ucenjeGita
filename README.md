@@ -1,2 +1,1 @@
-\##Po prvem commitu
-
+temna/bela, genka/sladka, dobra 
